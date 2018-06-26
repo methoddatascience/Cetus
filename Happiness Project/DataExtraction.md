@@ -8,6 +8,7 @@
  - https://github.com/fhamborg/news-please
  - https://github.com/codelucas/newspaper
  - https://holwech.github.io/blog/Automatic-news-scraper/
+ - https://newsriver.io
  
 ## 2. Initial Thoughts
 
